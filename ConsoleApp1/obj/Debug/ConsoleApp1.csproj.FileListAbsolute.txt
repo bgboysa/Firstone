@@ -1,0 +1,6 @@
+C:\Users\Lubomir\Desktop\Githube Demo\firstone\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Lubomir\Desktop\Githube Demo\firstone\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Lubomir\Desktop\Githube Demo\firstone\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Lubomir\Desktop\Githube Demo\firstone\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Lubomir\Desktop\Githube Demo\firstone\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Lubomir\Desktop\Githube Demo\firstone\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
