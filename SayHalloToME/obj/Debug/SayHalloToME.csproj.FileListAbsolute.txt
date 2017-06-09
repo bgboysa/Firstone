@@ -1,0 +1,6 @@
+C:\Users\Lubomir\Desktop\Github Demo\firstone\homeworks\SayHalloToME\bin\Debug\SayHalloToME.exe.config
+C:\Users\Lubomir\Desktop\Github Demo\firstone\homeworks\SayHalloToME\bin\Debug\SayHalloToME.exe
+C:\Users\Lubomir\Desktop\Github Demo\firstone\homeworks\SayHalloToME\bin\Debug\SayHalloToME.pdb
+C:\Users\Lubomir\Desktop\Github Demo\firstone\homeworks\SayHalloToME\obj\Debug\SayHalloToME.csprojResolveAssemblyReference.cache
+C:\Users\Lubomir\Desktop\Github Demo\firstone\homeworks\SayHalloToME\obj\Debug\SayHalloToME.exe
+C:\Users\Lubomir\Desktop\Github Demo\firstone\homeworks\SayHalloToME\obj\Debug\SayHalloToME.pdb

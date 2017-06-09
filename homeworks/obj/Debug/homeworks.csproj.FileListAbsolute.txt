@@ -1,0 +1,6 @@
+C:\Users\Lubomir\Desktop\Github Demo\firstone\homeworks\homeworks\bin\Debug\homeworks.exe.config
+C:\Users\Lubomir\Desktop\Github Demo\firstone\homeworks\homeworks\bin\Debug\homeworks.exe
+C:\Users\Lubomir\Desktop\Github Demo\firstone\homeworks\homeworks\bin\Debug\homeworks.pdb
+C:\Users\Lubomir\Desktop\Github Demo\firstone\homeworks\homeworks\obj\Debug\homeworks.csprojResolveAssemblyReference.cache
+C:\Users\Lubomir\Desktop\Github Demo\firstone\homeworks\homeworks\obj\Debug\homeworks.exe
+C:\Users\Lubomir\Desktop\Github Demo\firstone\homeworks\homeworks\obj\Debug\homeworks.pdb
